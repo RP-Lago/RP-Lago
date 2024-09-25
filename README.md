@@ -1,4 +1,3 @@
-```markdown
 Código de Exemplo: Uso da API Generative AI do Google no Google Colab
 
 Passo a passo para configurar e utilizar a API
