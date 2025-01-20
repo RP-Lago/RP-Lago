@@ -1,78 +1,38 @@
-Código de Exemplo: Uso da API Generative AI do Google no Google Colab
+# Hi there, I'm Robson Pereia Lago! 👋
 
-Passo a passo para configurar e utilizar a API
+Welcome to my GitHub profile! I'm passionate about data science and analytics, transitioning into the tech world after two decades in the glass manufacturing industry. Here's a bit more about me:
 
-Instalação da Biblioteca
-Para começar, é necessário instalar a biblioteca `google-generativeai`:
-```python
-!pip install google-generativeai
-```
+## 🔭 Current Projects
+- **[Desafio_DIO_Sistema_Bancario](https://github.com/RP-Lago/Desafio_DIO_Sistema_Bancario)**: A banking system challenge from DIO, focused on implementing object-oriented programming concepts.
+- **[Image Processing Package](https://github.com/RP-Lago/Image-Processing-Package)**: A Python package for image processing developed during a practical exercise on DIO.
 
-### Importação de Módulos
-Importe os módulos necessários:
-```python
-import google.generativeai as genai
-from google.colab import userdata
-```
+## 🌱 Learning
+- Currently learning **Data Modeling for Power BI**.
+- Exploring **Google Cloud Platform** for scalable data engineering solutions.
 
-### Recuperação da Chave de API
-Recupere a chave de API armazenada no Secrets do Google Colab:
-```python
-secretkey = userdata.get('secretkey')
-```
+## 💼 Skills
+- **Languages**: Python, SQL, PySpark
+- **Frameworks/Tools**: Power BI, Jupyter Notebook, BigQuery, Terraform
+- **Cloud Platforms**: Google Cloud (GCP)
 
-### Configuração da API
-Configure a biblioteca com a chave de API recuperada:
-```python
-genai.configure(api_key=secretkey)
-```
+## 💬 Ask me about
+- Data pipelines and ETL processes
+- Creating insightful dashboards with Power BI
+- Transitioning to a tech career
 
-### Listagem de Modelos Disponíveis
-Liste todos os modelos disponíveis e filtre aqueles que suportam o método de geração de conteúdo:
-```python
-for m in genai.list_models():
-  if 'generateContent' in m.supported_generation_methods:
-    print(m.name)
-```
+## 📫 How to reach me
+- Email: [robsonpereiralago@gmail.com](mailto:robsonpereiralago@gmail.com)
+- LinkedIn: [Robson Pereira Lago](https://www.linkedin.com/in/robsonpereiralago)
 
-### Seleção do Modelo
-Selecione o modelo "gemini-1.5-pro-latest":
-```python
-model = genai.GenerativeModel("gemini-1.5-pro-latest")
-```
+## 📈 GitHub Stats
+![RP-Lago's GitHub stats](https://github-readme-stats.vercel.app/api?username=RP-Lago&show_icons=true&theme=radical)
 
-### Início de um Chat
-Inicie uma sessão de chat com um histórico vazio:
-```python
-chat = model.start_chat(history=[])
-```
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### Loop de Conversação
-Crie um loop que espera pelo input do usuário e envia a mensagem para o modelo, imprimindo a resposta até que o usuário digite "fim":
-```python
-conversa = input("Esperando texto:")
+## 🎉 Fun Facts
+- I enjoy exploring new tools and frameworks to enhance data analysis.
+- Passionate about lifelong learning and personal development.
 
-while conversa != "fim":
-  response = chat.send_message(conversa)
-  print(response.text)
-  conversa = input("Esperando texto:")
-```
-
-## Explicação do Código
-
-1. **Instalação da Biblioteca**: A linha `!pip install google-generativeai` instala a biblioteca necessária para usar a API Generative AI do Google.
-
-2. **Importação de Módulos**: As linhas `import google.generativeai as genai` e `from google.colab import userdata` importam os módulos essenciais para o funcionamento do script.
-
-3. **Recuperação da Chave de API**: `secretkey = userdata.get('secretkey')` obtém a chave de API armazenada nos dados do usuário do Google Colab.
-
-4. **Configuração da API**: `genai.configure(api_key=secretkey)` configura a biblioteca `genai` com a chave de API obtida.
-
-5. **Listagem e Filtragem de Modelos**: O loop `for m in genai.list_models():` itera sobre os modelos disponíveis e imprime os nomes dos modelos que suportam o método `generateContent`.
-
-6. **Seleção do Modelo**: `model = genai.GenerativeModel("gemini-1.5-pro-latest")` seleciona o modelo especificado.
-
-7. **Início de uma Sessão de Chat**: `chat = model.start_chat(history=[])` inicia uma nova sessão de chat com um histórico vazio.
-
-8. **Loop de Conversação**: O loop `while conversa != "fim":` continua a coletar entradas do usuário, enviar essas entradas para o modelo e imprimir as respostas até que o usuário digite "fim".
-```
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me. Have a great day! 😊
