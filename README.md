@@ -5,11 +5,12 @@ Welcome to my GitHub profile! I'm passionate about data science and analytics, t
 ## 🔭 Current Projects
 - **[Desafio_DIO_Sistema_Bancario](https://github.com/RP-Lago/Desafio_DIO_Sistema_Bancario)**: A banking system challenge from DIO, focused on implementing object-oriented programming concepts.
 - **[Image Processing Package](https://github.com/RP-Lago/Image-Processing-Package)**: A Python package for image processing developed during a practical exercise on DIO.
-
+- **[Challenge-Amigo-Secreto](https://github.com/RP-Lago/Challenge-Amigo-Secreto.git)**: Desafio de Código Programação em Java Script on Alura.
 ## 🌱 Learning
 - Currently learning **Data Modeling for Power BI**.
 - Exploring **Google Cloud Platform** for scalable data engineering solutions.
-
+- Oracle Next Education **Iniciante em Programação**parte do programa ONE, parceria de Alura + Oracle.
+  
 ## 💼 Skills
 - **Languages**: Python, SQL, PySpark
 - **Frameworks/Tools**: Power BI, Jupyter Notebook, BigQuery, Terraform
