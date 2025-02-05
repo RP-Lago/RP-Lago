@@ -1,39 +1,43 @@
-# Hi there, I'm Robson Pereia Lago! 👋
+# Olá, eu sou Robson Pereira Lago! 👋
 
-Welcome to my GitHub profile! I'm passionate about data science and analytics, transitioning into the tech world after two decades in the glass manufacturing industry. Here's a bit more about me:
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por ciência de dados e análises, em transição para o mundo da tecnologia após duas décadas na indústria de fabricação de vidro. Aqui está um pouco mais sobre mim:
 
-## 🔭 Current Projects
-- **[Desafio_DIO_Sistema_Bancario](https://github.com/RP-Lago/Desafio_DIO_Sistema_Bancario)**: A banking system challenge from DIO, focused on implementing object-oriented programming concepts.
-- **[Image Processing Package](https://github.com/RP-Lago/Image-Processing-Package)**: A Python package for image processing developed during a practical exercise on DIO.
-- **[Challenge-Amigo-Secreto](https://github.com/RP-Lago/Challenge-Amigo-Secreto.git)**: Desafio de Código Programação em Java Script on Alura.
-## 🌱 Learning
-- Currently learning **Data Modeling for Power BI**.
-- Exploring **Google Cloud Platform** for scalable data engineering solutions.
-- Oracle Next Education **Iniciante em Programação**parte do programa ONE, parceria de Alura + Oracle.
-  
-## 💼 Skills
-- **Languages**: Python, SQL, PySpark
-- **Frameworks/Tools**: Power BI, Jupyter Notebook, BigQuery, Terraform
-- **Cloud Platforms**: Google Cloud (GCP)
+## 🔭 Projetos Atuais
+- **[Desafio_DIO_Sistema_Bancario](https://github.com/RP-Lago/Desafio_DIO_Sistema_Bancario)**: Um desafio de sistema bancário da DIO, focado na implementação de conceitos de programação orientada a objetos.
+- **[Pacote de Processamento de Imagens](https://github.com/RP-Lago/Image-Processing-Package)**: Um pacote Python para processamento de imagens desenvolvido durante um exercício prático na DIO.
+- **[Challenge-Amigo-Secreto](https://github.com/RP-Lago/Challenge-Amigo-Secreto.git)**: Desafio de Código Programação em JavaScript na Alura.
 
-## 💬 Ask me about
-- Data pipelines and ETL processes
-- Creating insightful dashboards with Power BI
-- Transitioning to a tech career
+## 🌱 Aprendendo
+- Atualmente aprendendo **Modelagem de Dados para Power BI**.
+- Explorando **Google Cloud Platform** para soluções escaláveis de engenharia de dados.
+- Oracle Next Education **Iniciante em Programação** parte do programa ONE, parceria da Alura + Oracle.
 
-## 📫 How to reach me
+## 💼 Habilidades
+- **Linguagens**: Python, SQL, PySpark
+- **Frameworks/Ferramentas**: Power BI, Jupyter Notebook, BigQuery, Terraform
+- **Plataformas de Nuvem**: Google Cloud (GCP)
+
+## 💬 Pergunte-me sobre
+- Pipelines de dados e processos ETL
+- Criação de dashboards informativos com Power BI
+- Transição para uma carreira em tecnologia
+
+## 📫 Como me encontrar
 - Email: [robsonpereiralago@gmail.com](mailto:robsonpereiralago@gmail.com)
 - LinkedIn: [Robson Pereira Lago](https://www.linkedin.com/in/robsonpereiralago)
 
-## 📈 GitHub Stats
-![RP-Lago's GitHub stats](https://github-readme-stats.vercel.app/api?username=RP-Lago&show_icons=true&theme=radical)
+## 📈 Estatísticas do GitHub
+<div>
+<a href="https://github.com/RP-Lago">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RP-Lago&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Robson">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RP-Lago&layout=compact&theme=radical" alt="Linguagens mais usadas">
+</a>
+</div>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-## 🎉 Fun Facts
-- I enjoy exploring new tools and frameworks to enhance data analysis.
-- Passionate about lifelong learning and personal development.
+## 🎉 Curiosidades
+- Sou marido da Talita e pai da Nicoly temos 3 pets: a🐶neginha, a🐶nina e o😺paçoca e cuidamos do 🐶pidão e do 😺mingal.
+- Gosto de explorar novas ferramentas e frameworks para aprimorar a análise de dados.
+- Apaixonado por aprendizado contínuo e desenvolvimento pessoal.
 
-Thanks for visiting my profile! Feel free to check out my repositories and connect with me. Have a great day! 😊
+Obrigado por visitar meu perfil! Sinta-se à vontade para conferir meus repositórios e conectar-se comigo. Tenha um ótimo dia! 😊
